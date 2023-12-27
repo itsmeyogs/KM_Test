@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KM Test</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">CHECK</string>
+    <string name="next">NEXT</string>
+    <string name="photo">Photo</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="button_back">Button Back</string>
+    <string name="ispalindrome">isPalindrome</string>
+    <string name="not_palindrome">not palindrome</string>
+    <string name="palindrome_input_cannot_be_empty">Palindrome input cannot be empty!</string>
+    <string name="welcome">Welcome</string>
+    <string name="john_doe">John Doe</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="firstname_lastname">Firstname LastName</string>
+    <string name="email_email_com">EMAIL@EMAIL.COM</string>
+    <string name="name_input_cannot_be_empty">Name input cannot be empty!</string>
+</resources>
